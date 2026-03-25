@@ -1,0 +1,1 @@
+`sudo docker run -p 18022:22 -p 18080:80 -i -t mcc0624/flask_ssti:last bash -c '/etc/rc.local; /bin/bash'`打开靶场

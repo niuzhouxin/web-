@@ -1,0 +1,1 @@
+`where java`找到java目录，先`D:`切换到D盘，再`cd D:\application\bin`,最后`java -jar "D:\CTF_tools\Stegsolve.jar"`打开工具（"D:\CTF_tools\Stegsolve.jar"是Stegsolve.jar的路径）

@@ -1,0 +1,1 @@
+先`cd D:\CTF_tools\foremost-master\binary`再`foremost.exe -i 4ak5ra.jpg`,图片一定与foremost.exe在一个文件夹下,这样图片就提取出来了

